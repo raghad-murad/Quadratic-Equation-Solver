@@ -8,7 +8,6 @@ A Java program that validates user IDs and provides functionalities to solve qua
 - [Technologies Used](#technologies-used)
 - [How to Run](#how-to-run)
 - [Code Structure](#code-structure)
-- [Screenshots](#screenshots)
 
 ## 🌟 Overview
 
@@ -79,10 +78,6 @@ The project consists of two main classes:
      - `findEquationRoots(double a, double b, double c):` Finds the roots of a quadratic equation.
      - `combineEquations(double a1, double b1, double c1, double a2, double b2, double c2):` Combines two equations.
      - `displayMainMenu():` Displays the menu options.
-
-## 🖼 Screenshots
-
-Screenshots of the program execution can be added here if available.
 
 ## 🤝 Contact
 
